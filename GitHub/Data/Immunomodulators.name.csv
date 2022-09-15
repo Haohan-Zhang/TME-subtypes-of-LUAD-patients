@@ -1,0 +1,70 @@
+gene,class
+CD80,Co-stimulator
+CD28,Co-stimulator
+ICOSLG,Co-stimulator
+PDCD1LG2,Co-inhibitor
+CD274,Co-inhibitor
+VTCN1,Co-inhibitor
+SLAMF7,Co-inhibitor
+BTN3A2,Co-inhibitor
+BTN3A1,Co-inhibitor
+VSIR,Co-inhibitor
+CD276,Co-inhibitor
+TNFSF9,Ligand
+TNF,Ligand
+TNFSF4,Ligand
+IL1B,Ligand
+CXCL9,Ligand
+CXCL10,Ligand
+CCL5,Ligand
+VEGFB,Ligand
+CX3CL1,Ligand
+TGFB1,Ligand
+VEGFA,Ligand
+CD70,Ligand
+CD40LG,Ligand
+IL10,Ligand
+IFNG,Ligand
+IL1A,Ligand
+IL12A,Ligand
+IL4,Ligand
+IL2,Ligand
+IL13,Ligand
+TNFRSF18,Receptor
+TIGIT,Receptor
+PDCD1,Receptor
+CTLA4,Receptor
+IL2RA,Receptor
+TNFRSF4,Receptor
+CD27,Receptor
+LAG3,Receptor
+ICOS,Receptor
+BTLA,Receptor
+TNFRSF14,Receptor
+EDNRB,Receptor
+CD40,Receptor
+ADORA2A,Receptor
+TLR4,Receptor
+HAVCR2,Receptor
+ITGB2,Cell adhension
+ICAM1,Cell adhension
+SELP,Cell adhension
+HLA-DRB5,Antigen persentation
+HLA-DQA1,Antigen persentation
+HLA-DQB1,Antigen persentation
+MICA,Antigen persentation
+MICB,Antigen persentation
+HLA-DQB2,Antigen persentation
+HLA-DQA2,Antigen persentation
+HLA-A,Antigen persentation
+HLA-B,Antigen persentation
+HLA-C,Antigen persentation
+HLA-DRA,Antigen persentation
+HLA-DRB1,Antigen persentation
+HLA-DPB1,Antigen persentation
+HLA-DPA1,Antigen persentation
+IDO1,Other
+GZMA,Other
+PRF1,Other
+HMGB1,Other
+ENTPD1,Other

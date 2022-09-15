@@ -1,0 +1,51 @@
+media,type
+CD4+ memory T-cells,Lymphoids
+CD4+ naive T-cells,Lymphoids
+CD4+ T-cells,Lymphoids
+CD4+ Tcm,Lymphoids
+CD4+ Tem,Lymphoids
+CD8+ naive T-cells,Lymphoids
+CD8+ T-cells,Lymphoids
+CD8+ Tcm,Lymphoids
+CD8+ Tem,Lymphoids
+B-cells,Lymphoids
+Tgd cells,Lymphoids
+Th1 cells,Lymphoids
+Th2 cells,Lymphoids
+Tregs,Lymphoids
+Memory B-cells,Lymphoids
+Class-switched memory B-cells,Lymphoids
+naive B-cells,Lymphoids
+NKT,Lymphoids
+pro B-cells,Lymphoids
+Plasma cells,Lymphoids
+MEP,Stem Cells
+GMP,Stem Cells
+HSC,Stem Cells
+CLP,Stem Cells
+CMP,Stem Cells
+Basophils,Myeloids
+cDC,Myeloids
+DC,Myeloids
+Eosinophils,Myeloids
+iDC,Myeloids
+Macrophages,Myeloids
+Macrophages M1,Myeloids
+Macrophages M2,Myeloids
+Mast cells,Myeloids
+pDC,Myeloids
+Monocytes,Myeloids
+aDC,Myeloids
+Chondrocytes,Stromal cells
+Endothelial cells,Stromal cells
+Fibroblasts,Stromal cells
+ly Endothelial cells,Stromal cells
+mv Endothelial cells,Stromal cells
+Megakaryocytes,Stromal cells
+Smooth muscle,Stromal cells
+Pericytes,Stromal cells
+Preadipocytes,Stromal cells
+Adipocytes,Stromal cells
+MSC,Stromal cells
+Osteoblast,Stromal cells
+Myocytes,Stromal cells

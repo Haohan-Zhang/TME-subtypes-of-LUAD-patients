@@ -1,0 +1,9 @@
+x,Database,TME Cluster
+C1.x,Training set,C1
+C1.y,Validation set,C1
+C2.x,Training set,C2
+C2.y,Validation set,C2
+C3.x,Training set,C3
+C3.y,Validation set,C3
+C4.x,Training set,C4
+C4.y,Validation set,C4
